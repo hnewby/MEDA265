@@ -1,0 +1,11 @@
+.meetingInfo {
+    float: right;
+    background-color:rgba(162, 156, 217, .9);
+    height: 300px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 1% auto;
+}
+.meetingInfo p{
+    font-size: 14pt;
+}
